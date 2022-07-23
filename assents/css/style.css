@@ -1,0 +1,113 @@
+/* navbar  */
+.titulonav{
+    font-family:'Cuprum', sans-serif;
+    font-weight:400;
+    font-size: 60pt;
+    color:black; 
+}
+
+.titulonav img{
+    width: 15%;
+}
+
+.navbar-toggler{
+    color:black; 
+ }
+ 
+ .nav-link{
+     text-decoration: none;
+     color:#FFFFFF;
+     font-size:20pt;
+     font-family:'Cuprum', sans-serif;
+}
+/* termina el navbar*/
+
+
+
+/* seccion quienes somos */
+.quienessomos h1{
+    padding:2rem;
+    text-align: center;
+    background-color: black;
+    font-family:'Cuprum', sans-serif;
+    font-weight: 400;
+    font-size: 30pt;
+    color: #FFFFFF;
+    background-size: 4rem;
+}
+
+.trescolumnas{
+    text-align: center;
+}
+
+.barracolumna i{
+    width: 3rem;
+}
+/* termina seccion quienes somos */
+
+
+
+/* seccion destacados */
+
+.destacados{
+    padding:2rem;
+    text-align: center;
+    background-color: black;
+    font-family:'Cuprum', sans-serif;
+    font-weight: 400;
+    font-size: 60pt;
+    color: #FFFFFF;
+}
+
+/* termina seccion destacados */
+
+
+
+/* seccion contacto */
+.contactos{
+    padding:2rem;
+    text-align: center;
+    background-color: black;
+    font-family:'Cuprum', sans-serif;
+    font-weight: 400;
+    font-size: 30pt;
+    color: #FFFFFF;
+}
+/* termina seccion contacto */
+
+
+
+/* caja con formulario */
+.suscribete{
+    font-family:'Cuprum', sans-serif;
+    font-weight:400;
+    font-size: 50pt;
+    color: #ffff;
+    text-align: center;
+}
+
+.sus{
+    font-family:'Cuprum', sans-serif;
+    font-weight:400;
+    font-size: 20pt;
+    color: #ffff;
+    text-align: center;
+}
+
+/* termina caja con formulario */
+
+
+
+/* footer */
+.pie{
+    font-family:'Cuprum', sans-serif;
+    font-weight:400;
+    font-size: 27pt;
+    color: #ffff;
+}
+
+
+footer{
+text-align: center;
+}
+/* termina footer */
